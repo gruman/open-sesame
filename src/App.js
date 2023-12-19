@@ -113,7 +113,7 @@ export default App;
           :
 
           <div className="loggedOut">
-            <p>Logged out</p>
+            <p>Type "open sesame"</p>
           </div>
       }
     </div>
