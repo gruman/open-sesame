@@ -43,7 +43,7 @@ function App() {
         loggedIn ?
           <div className="loggedIn">
             <h2>Open Sesame - Unlocking Secrets with React</h2>
-            <p className="date">Last updated 19/12/2023</p>
+            <p className="date">Last updated 19/12/2023 by <a href="https://matthewgruman.com">Matthew Gruman</a></p>
             <p className="lead" style={{ color: "#111" }}>Type a word and unlock a secret area of your website. For fun, not security.</p>
             <p>Full code is available on <a href="https://github.com/gruman/open-sesame">GitHub</a>.</p>
             <p>A <a href="https://open-sesame-react.vercel.app">demo is available</a>,</p>
