@@ -40,7 +40,7 @@ function App() {
   return (
     <div>
       {
-        loggedIn || !loggedIn ?
+        loggedIn ?
           <div className="loggedIn">
             <h2>Open Sesame - Unlocking Secrets with React</h2>
             <p className="date">Last updated 19/12/2023</p>
